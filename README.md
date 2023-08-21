@@ -1,4 +1,4 @@
-![image](https://github.com/MohammedIrfan-Github/Excel-Dashboards/assets/122785587/e1cfba4b-dce3-4dfb-8198-abc1171408cd)# Excel-Dashboards
+# Excel-Dashboards
 In this I have created three different dashboards on Finance, Customer Service and Orders which includes various Business questions individually and tried to find the valuable and meaningful insights through the following dashboards.
 
 # Customer Service - Dashboard
